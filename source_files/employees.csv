@@ -1,0 +1,181 @@
+employee_id,employee_name,branch_id,role,hire_date,salary,email,phone
+1,Carolyn Daniel,4,Mechanic,2024-03-18,49700.0,stevennelson@watts.com,505.964.1395
+2,Judy Baker,9,Service Advisor,2022-06-12,44500.0,julieryan@richards.com,(387)810-1226
+3,Kendra Maddox DVM,9,Service Advisor,2022-05-07,47300.0,frazierdanny@potter.com,(727)404-8281x48932
+4,Kerry Smith,5,Senior Mechanic,2023-06-14,67300.0,tracy15@allen-allen.org,417-618-2278
+5,Tracey Hickman,3,Mechanic,2023-05-15,47200.0,jenniferross@santos.com,531.250.9839
+6,Crystal Whitehead,3,Mechanic,2020-03-04,47200.0,chad34@washington.org,001-773-876-3116
+7,Amy Valdez,2,Service Advisor,2022-07-21,50500.0,brownjessica@wright.net,226.324.7317x810
+8,Carol Tucker,6,Mechanic,2026-02-27,50700.0,michellebarrera@gray.com,246.787.2343x098
+9,Kathryn Farrell,12,Branch Manager,2020-01-29,76400.0,brianromero@jones.com,(719)639-9091x6998
+10,Cynthia Foster,7,Mechanic,2021-02-08,49900.0,stephen10@howell-hart.com,783-684-2513
+11,Michele Carr,11,Mechanic,2020-10-12,46400.0,contrerasangela@garcia.com,001-282-344-9353x4874
+12,Amanda Cook,10,Branch Manager,2024-02-12,76400.0,danagreen@ramos.com,428-205-9826
+13,Rebecca Valencia,11,Mechanic,2021-10-31,48800.0,jason31@deleon-henson.biz,+1-423-322-6025x634
+14,John Gonzalez,2,Mechanic,2022-05-09,41300.0,ybailey@walker.com,(454)614-5868x5014
+15,Haley Hartman,7,Branch Manager,2019-12-11,72000.0,gobrien@cruz.com,706-308-8356x159
+16,Eric Ortiz,6,Service Advisor,2024-09-17,43000.0,jterry@lee.biz,+1-729-994-6804x43699
+17,Kayla Leon,11,Mechanic,2022-10-08,44500.0,donnacampbell@schultz.com,+1-543-832-0037x91769
+18,Matthew Smith,11,Apprentice,2023-02-19,35100.0,osbornejeffery@holmes.com,927.488.9579x868
+19,David Wright,9,Service Advisor,2024-11-17,41800.0,katie87@allen.com,855-881-2236x231
+20,Antonio Wall,7,Mechanic,2021-12-28,43100.0,lstein@smith.info,9545668893
+21,Mr. Michael Yates,12,Apprentice,2021-08-02,39100.0,marycalhoun@ferguson.com,562-972-0465
+22,Jamie Walton,1,Service Advisor,2021-12-18,44200.0,fking@smith-ryan.com,510.403.3092
+23,Travis Marshall,6,Mechanic,2022-12-28,48200.0,katie29@stuart.com,619-304-9663x1931
+24,Amanda Patel,10,Mechanic,2025-04-01,43000.0,casey50@short-garcia.com,+1-672-762-8498x7769
+25,Angelica Keith,11,Mechanic,2025-08-20,46100.0,karenhudson@gray.com,535.845.4948x0831
+26,Melissa Brewer,11,Apprentice,2023-02-04,34400.0,bwest@phillips.com,695-678-8568x5574
+27,Emily Newton,4,Mechanic,2021-04-16,44000.0,jamesrodgers@hardy-bray.net,+1-641-234-3524x082
+28,Melissa Martinez,12,Senior Mechanic,2026-06-30,63300.0,agarcia@mitchell.com,671-316-7190x229
+29,Phillip Obrien,7,Apprentice,2026-08-19,31900.0,kimberlyjames@evans-chapman.biz,399-409-1334x1232
+30,Kirk Carter,3,Apprentice,2019-09-11,33000.0,keithcampbell@jones-hall.com,+1-693-661-8324x2102
+31,Eric Powell,1,Mechanic,2022-10-01,45900.0,vincent77@george.com,+1-940-913-9904x902
+32,Kevin Walters,3,Mechanic,2026-02-01,54500.0,ecosta@ortiz-morris.com,(356)774-6807
+33,Raymond Hancock,2,Senior Mechanic,2021-06-11,62000.0,sandovalamy@brown-stone.org,001-577-403-4824x77109
+34,Jason Walker,8,Senior Mechanic,2021-11-07,58300.0,murraydavid@jimenez.com,346.677.3782x63982
+35,Gina French,1,Apprentice,2025-01-30,36900.0,lori44@carpenter.info,+1-575-558-8675
+36,Reginald Williams,9,Mechanic,2023-09-05,43700.0,zthornton@hughes-alvarado.com,802.489.5171x8702
+37,Deborah Hanson,6,Service Advisor,2020-03-14,45700.0,vsantos@villarreal.info,+1-309-313-4316
+38,Stephanie Williams,8,Senior Mechanic,2022-10-13,55100.0,carternicholas@sanchez.org,
+39,Christopher Lynch,12,Service Advisor,2024-06-12,40400.0,pharvey@durham-thomas.info,+1-647-840-7482x1759
+40,Eric Kidd,3,Senior Mechanic,2024-07-04,62700.0,yrodriguez@howard.com,+1-664-409-0974x39533
+41,Maria Parker,11,Mechanic,2024-01-27,50600.0,xjohnson@anderson.biz,(632)985-8842
+42,Seth Brock,10,Service Advisor,2026-06-12,45600.0,jmccarty@dalton.biz,+1-751-660-4817
+43,Teresa Rodriguez,3,Mechanic,2023-10-08,47600.0,thomasharvey@murphy.info,001-446-812-0047x113
+44,Natalie Bautista,9,Service Advisor,2022-11-07,43900.0,umatthews@mcclure.com,796.240.5377x3515
+45,Bryan Charles,8,Senior Mechanic,2022-06-18,56800.0,ndavis@fowler.com,
+46,Justin Jones,5,Apprentice,2021-05-19,31500.0,brendali@murphy.org,4422284210
+47,Leah Smith,10,Mechanic,2022-03-08,46400.0,brian68@reese.info,001-258-991-7839x08470
+48,Brian Joseph,8,Mechanic,2025-08-09,51700.0,fjones@franklin-jones.com,+1-398-356-9847x896
+49,Patricia Le,9,Apprentice,2025-08-23,35200.0,russellbeasley@morgan-chavez.biz,001-815-365-4527x1111
+50,Carlos Brown,8,Mechanic,2024-11-20,41800.0,elizabeth65@pugh.com,794-351-9832x7315
+51,Renee Bruce,9,Mechanic,2025-01-05,49100.0,lynchdiane@adams.com,850-922-9612x01836
+52,Nathan Frank,4,Senior Mechanic,2022-01-23,60700.0,wareeric@williams.biz,997.664.3815x6149
+53,Kyle Smith,12,Service Advisor,2019-12-30,42600.0,sierra24@murphy-smith.biz,(826)283-8851
+54,Blake Edwards,11,Mechanic,2022-09-23,50100.0,tberry@butler.com,(897)351-6136
+55,Gerald Cook,9,Senior Mechanic,2022-06-12,65600.0,charlesschultz@hicks.com,412.943.2921
+56,Lauren Maldonado,2,Mechanic,2022-12-03,51300.0,michelle52@jones-ramos.com,690-358-1477x005
+57,Ann Wheeler,4,Senior Mechanic,2024-03-09,59100.0,jford@huang.com,997-982-0715x18203
+58,Helen Hardin,12,Mechanic,2023-05-06,46900.0,vortiz@harper.com,818-464-4925x19254
+59,Emily Bennett,1,Mechanic,2023-11-03,49200.0,lisa81@santiago.com,(635)373-3221
+60,Nancy Rose,4,Mechanic,2023-03-25,51400.0,nancy92@bennett.org,(970)565-3794
+61,Robert Harrison,9,Senior Mechanic,2023-05-31,60300.0,michealvalentine@murray-campbell.biz,386.623.9240x75818
+62,Jerry Palmer,10,Apprentice,2020-04-06,33400.0,odavis@wilkerson-arias.biz,2687536153
+63,Marie Moody,8,Mechanic,2026-03-11,44100.0,benjaminlowery@horton-taylor.info,390.610.4328x986
+64,David Fowler,2,Mechanic,2021-05-04,43800.0,fbrown@herrera.com,260-895-3962x1851
+65,James Brooks,7,Mechanic,2025-10-15,50800.0,kellycarlos@quinn.com,001-995-220-5852x77221
+66,Curtis Williams,11,Service Advisor,2021-09-24,49700.0,zachary87@johnson-lucas.com,(905)941-5667x652
+67,Debra Miller,1,Service Advisor,2022-03-31,44700.0,mmiller@gardner.com,754-947-9627
+68,Heather Bolton,2,Mechanic,2019-12-22,51500.0,danielle01@walsh.com,7298702135
+69,Christian Cole,8,Mechanic,2026-04-27,49300.0,nathan19@moreno.com,+1-943-510-2786x8144
+70,Thomas Henry,8,Mechanic,2026-08-25,45700.0,taylorcharles@roach.com,+1-555-418-8442x25831
+71,Isaac Armstrong MD,8,Apprentice,2021-05-02,35300.0,cherylmiller@sanders-love.info,466.491.2517x78528
+72,Amy Martinez,2,Branch Manager,2022-09-14,83400.0,kevinmartin@perez.com,343-484-2498
+73,Carolyn Weber,1,Apprentice,2023-10-26,33900.0,megan90@miller.org,839-669-0784x473
+74,Brooke Perry,4,Apprentice,2022-11-07,39500.0,mharris@edwards.com,001-956-525-8815x3714
+75,Tony Lin,4,Senior Mechanic,2020-08-30,52800.0,kwright@peck-griffith.com,001-527-787-7470x16873
+76,Kyle Cameron,3,Apprentice,2020-01-07,36900.0,amitchell@jordan.com,001-965-606-0983x58416
+77,Lisa Anderson,5,Apprentice,2025-06-14,34300.0,longlaura@grant-diaz.com,798.968.0002
+78,Steven Taylor,5,Service Advisor,2023-04-24,44000.0,francisco94@rogers.org,570-255-1694x0974
+79,Mark Harvey,9,Apprentice,2023-10-05,34300.0,rhernandez@johnson.com,907.256.2636
+80,Kristina Bolton,4,Senior Mechanic,2024-08-12,55000.0,ufox@stevens.com,+1-654-597-3348
+81,Dr. Michele Vaughn,10,Apprentice,2026-04-07,33200.0,wstewart@peck.com,001-386-765-2404
+82,Nicole Lewis,6,Mechanic,2026-02-21,49200.0,sarah42@gilbert.com,908.333.0165
+83,Vincent Spence,9,Senior Mechanic,2024-06-11,67200.0,richarddonovan@woods-gonzalez.com,440-619-3802x62067
+84,Keith Rodriguez,1,Senior Mechanic,2025-10-23,60200.0,justin88@small-anderson.net,543.415.2742x054
+85,Jennifer Patterson,3,Mechanic,2023-12-14,45200.0,christopher12@woods.com,563-274-5499x045
+86,Christopher Parks,4,Mechanic,2024-05-07,46200.0,hannah45@walker.info,001-795-368-7833x9187
+87,Ronald Leach,10,Apprentice,2026-02-04,37200.0,ashleyhernandez@bond-ramos.com,001-297-918-7072x867
+88,Alex Scott,10,Senior Mechanic,2024-05-20,63200.0,reesebeth@henderson.com,+1-801-770-4622
+89,Sergio Knox,10,Service Advisor,2026-08-16,43100.0,qmiller@anderson.net,(582)930-0478x6863
+90,Timothy Hardy,4,Apprentice,2022-02-05,35800.0,johnsondonna@miranda.com,819-907-9030
+91,Scott Brown,5,Mechanic,2021-04-25,48300.0,jim95@harper.com,(483)864-4089
+92,Gregory Schneider,5,Service Advisor,2023-07-26,48400.0,ufloyd@butler.net,833.542.7086x6882
+93,Bob Cole,2,Apprentice,2021-06-17,31500.0,christopher30@bennett-jacobs.com,
+94,Philip Ramsey,10,Service Advisor,2025-10-15,43900.0,timothybooth@turner-stout.com,717.639.3638
+95,Heather Green,4,Mechanic,2022-05-04,46600.0,zowens@harrison.com,560-793-2048x99642
+96,Danielle Pierce,6,Mechanic,2021-04-14,42900.0,jonathan77@jackson-norton.com,(287)228-0801
+97,Crystal Mann,6,Branch Manager,2022-07-25,79000.0,robinsonstephen@williamson.org,270.808.8600x8484
+98,Ashley Davis,9,Senior Mechanic,2025-04-26,62900.0,johnharvey@ochoa-adams.biz,256-379-3341
+99,John Walsh,11,Service Advisor,2022-07-06,45000.0,christopherbruce@mueller.com,703.239.7401x48902
+100,Nicole Marquez,9,Service Advisor,2026-05-28,44200.0,thickman@elliott.biz,+1-885-762-1850x16315
+101,Willie Henry,3,Service Advisor,2019-11-19,40000.0,angela66@frazier.biz,494-831-1426
+102,Aaron Parker,12,Apprentice,2021-11-22,32500.0,kathleen12@lopez.net,+1-786-810-1581
+103,Richard Hardy,10,Mechanic,2019-10-06,46800.0,ashleyjackson@jackson-adams.com,921.526.4647x1543
+104,Adam Foster,11,Mechanic,2022-11-18,45200.0,vbrock@cook-ochoa.org,(745)693-7526
+105,Tracy Casey,8,Mechanic,2024-10-26,47400.0,nicholas65@frederick.org,+1-828-907-3741
+106,David Moore,1,Apprentice,2020-08-25,35400.0,emccormick@ewing-mendoza.biz,+1-386-580-5891
+107,Matthew Williams,5,Senior Mechanic,2024-04-11,68600.0,vrasmussen@rodriguez-garcia.com,
+108,Lauren Johnston,3,Mechanic,2023-04-02,48600.0,dbrooks@chapman.com,914.761.1254x5738
+109,Michael Flores,12,Mechanic,2023-01-04,48900.0,bradley10@wong-byrd.com,001-438-828-2586x7362
+110,Sonya Cole,9,Service Advisor,2022-06-12,44700.0,tprice@harris.com,
+111,Kimberly Diaz,12,Mechanic,2023-09-19,41300.0,stephenbaker@rose-fowler.org,(396)491-5579x2499
+112,Bruce Brooks,6,Senior Mechanic,2021-11-13,61900.0,williambarnes@andrews.com,782.282.7422x5790
+113,James Hoffman,3,Mechanic,2023-01-25,48200.0,fortiz@mckinney-wallace.com,
+114,Philip Carter,1,Mechanic,2020-04-03,56600.0,jeffrey42@cunningham-barton.info,+1-281-991-4858
+115,Ashley Greer PhD,4,Mechanic,2023-07-02,47300.0,nancy07@bailey-montoya.info,433-595-9629
+116,Laura Patel,9,Mechanic,2025-05-15,49100.0,mariopadilla@armstrong-farley.net,+1-412-660-4223x25367
+117,Bernard Norton,10,Senior Mechanic,2024-01-26,61900.0,powellkara@mayer.com,001-801-575-1863
+118,Drew Kelley,4,Apprentice,2023-02-20,30000.0,ashleewashington@shannon-farmer.com,570-412-7706
+119,Shannon Mcdowell,3,Apprentice,2025-11-06,38000.0,penajohn@beck-banks.com,(943)261-1037x1293
+120,Bryan Dalton,12,Mechanic,2019-09-25,50600.0,timperez@cross.com,754-526-2218x90927
+121,Jason Parks,7,Service Advisor,2024-01-27,47800.0,christophergarcia@lawrence.com,(552)534-1389x99404
+122,Anthony Hurst,4,Branch Manager,2024-11-28,74800.0,troyrodriguez@little-jones.com,(352)269-6582x710
+123,Antonio Mccormick,2,Service Advisor,2021-07-06,49900.0,courtney86@miles-miller.net,+1-492-741-4183
+124,Sandra Becker,8,Mechanic,2022-05-30,43100.0,collinssamuel@brown.biz,479-290-4210
+125,Kelly Logan,8,Branch Manager,2020-10-27,80100.0,gary24@tanner.biz,481-749-1778x507
+126,Stephanie Craig,4,Branch Manager,2020-10-11,85700.0,perezwilliam@trevino.com,5757622086
+127,Erica Mckenzie,7,Service Advisor,2021-05-31,41500.0,david02@brock.biz,774-545-1870
+128,Nancy Sanchez,5,Branch Manager,2021-09-19,76000.0,brittany73@mccullough.com,(803)985-0506x41383
+129,Brenda Ramirez,11,Senior Mechanic,2026-05-27,62300.0,morsephyllis@gutierrez.com,001-818-426-1990
+130,Ethan Owen,1,Senior Mechanic,2021-05-02,60200.0,louis43@harding.org,721-527-7561
+131,Samuel Davis,3,Apprentice,2022-11-03,30000.0,margaret90@huff.com,235-868-0442
+132,Krista Davis,1,Apprentice,2025-08-28,34200.0,laradonald@brown.com,365.519.9410
+133,Carl Stein,12,Senior Mechanic,2025-12-28,58300.0,david70@glass.biz,506.662.5324x4720
+134,Karen Miller,9,Senior Mechanic,2023-03-03,63700.0,mtaylor@wilkerson.net,7658787598
+135,Kyle Johnson,4,Apprentice,2021-07-27,30800.0,brian78@wang-key.com,733-448-0396
+136,Renee Wolfe,1,Service Advisor,2020-11-28,50400.0,warnermichael@elliott.info,+1-542-270-1039
+137,Thomas Harris,11,Branch Manager,2023-05-12,75300.0,matthewthompson@brown-hernandez.com,001-818-951-5691x54522
+138,Wayne Steele,11,Service Advisor,2024-03-21,43900.0,jeffrey92@parker-barker.com,(509)369-0295
+139,Patrick Young,11,Senior Mechanic,2026-03-26,64800.0,gary15@smith-clark.com,(741)800-6762x676
+140,Sean Curtis,11,Service Advisor,2020-05-21,40700.0,franciscojones@phillips.com,715-926-2181
+141,Matthew Lawson,5,Service Advisor,2024-08-09,45800.0,gmoore@harris-lee.net,001-284-744-3106x9872
+142,Rodney Weber,6,Service Advisor,2019-09-14,49600.0,bgonzalez@jackson.com,714.467.7418x6256
+143,John Perez,3,Mechanic,2022-10-18,42400.0,anne21@barnett.biz,001-393-880-6868x79374
+144,Kathryn Lester,7,Service Advisor,2025-12-29,45600.0,davidtodd@rush.com,620.761.6329
+145,Andrea Hughes,10,Apprentice,2026-01-19,34900.0,rarnold@ellis.org,001-386-316-2299
+146,Dustin Nichols,1,Senior Mechanic,2023-08-13,64700.0,natalie46@washington.com,(229)796-0653x0745
+147,Douglas Vasquez,10,Mechanic,2025-05-25,43700.0,comptonjeremy@mccann-ramos.com,469-313-7367x850
+148,Brandy York,8,Mechanic,2021-11-08,43400.0,thompsonnancy@hood.com,705.934.5786x103
+149,Seth Matthews,8,Mechanic,2023-11-01,49800.0,max41@johnson-williams.org,001-233-533-4680x07229
+150,Elizabeth Rasmussen,12,Apprentice,2021-06-11,35000.0,rodney65@king-owens.net,+1-369-910-8589x944
+151,Margaret Hensley MD,9,Mechanic,2020-02-15,48900.0,jacob83@trujillo.biz,+1-752-507-4466x60993
+152,Karen Shepard,2,Service Advisor,2024-06-24,46200.0,william28@carter.com,001-648-625-1353x4655
+153,Anthony Walters,11,Service Advisor,2022-12-03,42600.0,kennedyjames@dillon.net,360-922-3569x7252
+154,Mrs. Amy Hayes,3,Branch Manager,2022-01-02,78800.0,kathleenjackson@burns.com,
+155,Jennifer Sanford,8,Mechanic,2023-12-23,49000.0,ismith@cross.com,001-683-400-3354x21689
+156,Travis Bryant,8,Service Advisor,2020-02-18,42500.0,ryan25@howard-lopez.biz,3337230982
+157,Jaime Bowman,4,Service Advisor,2024-08-26,51500.0,wheelerbrandon@valdez.com,001-616-876-1847x230
+158,Debra Obrien,7,Mechanic,2024-04-22,49700.0,robertroach@higgins.com,939.534.8356x4208
+159,Mr. Adam Davis,1,Service Advisor,2024-06-29,40800.0,conleyelizabeth@herring.com,001-714-737-4470x1204
+160,Samuel Zamora,2,Branch Manager,2022-08-28,80300.0,christianelizabeth@murphy.org,815-452-1667x467
+161,Amy Dunlap,12,Mechanic,2020-06-19,44600.0,dalepruitt@pham-gregory.com,+1-365-690-2771x670
+162,Sean Warren,4,Mechanic,2024-04-05,50800.0,tiffanysantiago@stone-watts.org,263-275-6289
+163,Samuel Christian,3,Mechanic,2024-03-06,52100.0,charlesvasquez@rivera.com,738.366.3177x97177
+164,Alicia Powell,9,Service Advisor,2026-07-16,42100.0,hawkinsaaron@conner.com,783.975.5037x58997
+165,Courtney Peterson,8,Apprentice,2020-06-22,37400.0,amy51@prince.com,001-761-349-3316x373
+166,Mark Powers,9,Service Advisor,2024-12-22,46400.0,bartonshannon@lawrence.com,708.869.7829x22169
+167,Melissa Wright,8,Apprentice,2022-08-10,36900.0,sstuart@ballard-taylor.org,001-484-485-8333x945
+168,Erica Wilson,8,Service Advisor,2023-03-15,51600.0,anna99@mckinney.net,660-681-0620x0342
+169,Richard Harris,11,Service Advisor,2020-09-13,44100.0,howardshaun@parrish.net,(538)940-6665x8004
+170,Michele Holland,8,Service Advisor,2025-06-26,42400.0,kimberlybrandt@cole-lucero.com,(628)416-0648
+171,Abigail Owens,2,Mechanic,2020-10-20,44900.0,billmcfarland@williams.com,898.851.5832x8182
+172,Daniel Rivera,6,Mechanic,2020-04-27,45100.0,kelly98@barajas-colon.com,857-339-9305
+173,Diane Pruitt,3,Senior Mechanic,2022-05-18,61700.0,willie87@williams-villanueva.com,881-312-8801x33613
+174,Joe Rivera,3,Mechanic,2024-11-26,49200.0,jonesgregory@grant-andrews.com,366-276-6506x180
+175,Timothy Rodriguez,7,Mechanic,2024-07-31,49000.0,catherine47@foster-guerrero.info,(783)226-8424
+176,Barbara Smith,1,Senior Mechanic,2023-07-20,64900.0,fmedina@clark-figueroa.com,568.322.2394
+177,Sarah York,10,Senior Mechanic,2020-12-11,62000.0,enewman@powers-king.com,001-997-955-2314x9135
+178,Melissa Hernandez,10,Mechanic,2021-12-22,53100.0,lindsey62@edwards.biz,452-357-7754x781
+179,Brenda Ryan,6,Mechanic,2025-07-26,47100.0,jessica11@atkinson.com,001-996-493-0848
+180,Raymond Quinn,7,Mechanic,2022-03-28,57500.0,dennis88@sanders.com,+1-239-528-2722x99275

@@ -1,0 +1,13 @@
+branch_id,branch_name,city,state,region,open_date,manager_name,bay_count
+1,BigGarage Chicago,Chicago,SC,North,2019-05-06,Danielle Taylor,4
+2,BigGarage Detroit,Detroit,CT,North,2022-09-26,Angie Henderson,4
+3,BigGarage Minneapolis,Minneapolis,AK,North,2019-03-29,Lance Hoffman,8
+4,BigGarage Houston,Houston,VT,South,2022-07-29,Connie Lawrence,6
+5,BigGarage Dallas,Dallas,AS,South,2023-11-22,Caitlin Henderson,6
+6,BigGarage Atlanta,Atlanta,KY,South,2019-08-11,Gabrielle Davis,6
+7,BigGarage New York,New York,CT,East,2020-10-30,Dennis Williams,4
+8,BigGarage Boston,Boston,NH,East,2021-11-22,Jamie Arnold,12
+9,BigGarage Philadelphia,Philadelphia,MP,East,2022-06-13,Heidi Lee,4
+10,BigGarage Los Angeles,Los Angeles,CA,West,2018-12-14,Dylan Miller,12
+11,BigGarage San Francisco,San Francisco,IN,West,2023-11-16,Jesse Flowers,10
+12,BigGarage Seattle,Seattle,GA,West,2020-11-24,Derek Zuniga,4
